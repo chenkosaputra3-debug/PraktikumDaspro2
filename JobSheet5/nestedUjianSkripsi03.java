@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class nestedUjianSkripsi15 {
+public class nestedUjianSkripsi03 {
     public static void main(String[] args) {
         try(Scanner sc = new Scanner(System.in)) {
             String pesan;

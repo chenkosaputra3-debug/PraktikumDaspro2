@@ -33,6 +33,7 @@ public class KafeDoWhile03{
             System.out.println("Total yang harus dibayar: Rp " + totalHarga); 
 
             sc.nextLine(); 
+            System.out.println("-----------------------------");
 
         } while (true); 
 
